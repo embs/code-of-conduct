@@ -46,6 +46,8 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 - Não divulgue vagas de emprego sem consultar os admins (em pvt);
 - Não divulgue vagas de emprego que não estejam ligadas ao tema do grupo ou relacionadas com TI;
+- Não divulgue vagas de emprego sem títulos e descrições inclusivas;
+- Não divulgue vagas de emprego sem ao menos uma faixa salarial, tipo (CLT/PJ/etc) e modalidade (remoto/presencial/etc) de contratação;
 - Se preferir, existem canais específicos para este tipo de atividade, procure na lista de canais.
 
 ### 4.3 Divulgar canais
